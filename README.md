@@ -1,4 +1,4 @@
-# Machine-Learning-Homework---Exoplanet-Exploration
+# Machine-Learning---Exoplanet-Exploration
 
 SVC Accuracy: 0.8009153318077803
                 precision    recall  f1-score   support
